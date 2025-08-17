@@ -26,7 +26,7 @@ to experiment and to try new things.
 ```python
 # A developer Haiku
 You learn as you make
-Never stop making my friend
-def improve(self)
+Keep on making code my friends
+But don't push to main
 ```
 
